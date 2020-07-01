@@ -1,3 +1,5 @@
+### Project was completed: May 2020
+
 ## Introduction
 The coronavirus, Covid-19, has had a tremendous global effect. Countries around the world are scrambling to develop and produce enough tests to keep up with the rates of infection. The goal of this project is to use two databases of x-ray images of patient's lungs to build a classifier that can detect whether or not a person has Covid-19 or is healthy. To the naked eye, the images may be hard to tell apart, but it's possible that deep learning methods will be better at discerning the difference than the naked eye.  
   
